@@ -1,26 +1,5 @@
-# DNJ-Jewelry-Repair
-
- url to website:     https://dnj-jewelry-repair-679wc4og5-hulaus.vercel.app/
-
-This is a Storefront project, Made by https://github.com/hulaus (Joseph Carrasco) https://github.com/Ukeno (Kenny) https://github.com/GiaMadonna1 (Gia Madonna) https://github.com/JuleianRenteria (Juleian Renteria) 
-
-We made a PERN application using react/flask and vercel for our deployment. We implemented a Login/Singup function into our project, fetching it through the backend. We are going to implement a shopping store into the application later on. Aswell as a fourm page for the website. We were able to implement a video/slideshows onto the website.
+## DNJ Jewelry Repair
+# Store-Front Based Application
+# Adapted from a Group PERN Stack project for UNLV bootcamp. Original Github can be found at https://github.com/hulaus/DNJ-Jewelry-Repair.
 
 
-
-
-Overview
-storefront for Jewelry Store 
-
-
-
-
-
-Demo 
-
-
-
-
-
-APIs used in this app 
-https://axios-http.com/docs/api_intro
